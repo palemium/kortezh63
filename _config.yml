@@ -5,6 +5,7 @@ baseurl: ''
 url: 'http://www.kortezh63.ru'
 twitter_username: jekyllrb
 github_username: jekyll
+vk_group_name: club109352806
 markdown: kramdown
 google_analytics_id: UA-74176243-1
 gems:
